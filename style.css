@@ -163,7 +163,7 @@ section {
   font-size: 1.5em;
 }
 
-.footer {
+/* .footer {
   background-color: black;
   color: #f0f0f0;
   padding: 2em;
@@ -184,7 +184,7 @@ section {
 
 .footer-title .special {
   color: #3a6cf4;
-}
+} */
 .Books {
   background-color: gainsboro;
   width: 100%;
